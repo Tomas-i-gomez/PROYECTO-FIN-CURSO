@@ -7,8 +7,9 @@
     background-color: #1b1b1d;
     min-height: 85vh;
     display: flex;
+    justify-content: center;
     align-items: center;
-    padding: 3rem;
+    /* padding: 3rem; */
   }
   
     body .title:after {
